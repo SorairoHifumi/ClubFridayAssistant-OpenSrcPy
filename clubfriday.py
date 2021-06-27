@@ -14,7 +14,6 @@ token = 'not today boi...' #Don't hack my bot pls
 
 thisDay = datetime.date.today()
 dotw = thisDay.isoweekday()
-dotw = 3#TEST ONLY
 
 
 
@@ -134,8 +133,7 @@ async def c(ctx,cnum,period):
         embed = discord.Embed(title = f'{schedule[cnum][dayoftoday][iperiod - 1]}', description = f'Teacher : {teacher_name}\nDuration : {startTime}{timenum} - {endTime}{timenum}',url=hyperlink,color=0x669900)
         embed.set_footer(text=f'6/{cnum} {dayoftoday} #{iperiod}')
         await ctx.send(embed=embed)
-        await ctx.send('During testing... The value now might not be accurate')
-        #await ctx.send(f'{schedule[cnum][dayoftoday][iperiod - 1]} \nStarts at {startTime}{timenum}')
+        #await ctx.send(f'{schedule[cnum][dayoftoday][iperiod - 1]} \nStarts at {startTime}{timenum}') - old one
 
     
 
