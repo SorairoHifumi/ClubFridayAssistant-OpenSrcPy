@@ -1,8 +1,6 @@
 import discord
 import os
 from discord.ext import commands
-from discord.voice_client import VoiceClient
-from dotenv import load_dotenv
 import datetime
 import calendar
 import time
@@ -29,7 +27,7 @@ schedule = {
 '1' : {
 'Monday':['Animation' , 'Workshop' , 'Art Project' , 'Art Project' , 'Listening' , 'PE'],
 'Tuesday':['Current Event' , 'Mathematics' , 'Thai' , 'Grammar' , 'Literature' , 'Economics'],
-'Wednesday': ['Science' , 'Social' , 'Art' , 'Current Event' , 'Thai'],
+'Wednesday': ['Science', 'Science' , 'Social' , 'Art' , 'Current Event' , 'Thai'],
 'Thursday': ['Web Design' , 'Guidance' , 'Mathematics' , 'Social' , 'Elective' , 'Elective'],
 'Friday': ['Writing' , 'WE' , 'Listening' , 'Literature' , 'Graphic Design' , 'Club']}
 ,
