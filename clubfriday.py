@@ -120,6 +120,8 @@ async def c(ctx,cnum,period):
 
     if tunk == True:
         teacher_name = 'Unknown'
+    if dotw > 5:
+        teacher_name = 'Unknown'
     else:
         teacher_name = teachername[cnum][schedule[cnum][dayoftoday][iperiod - 1]]
 #value init done
