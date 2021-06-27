@@ -100,8 +100,6 @@ async def clist(ctx,arg):
 async def dayoftheweek(ctx):
     await ctx.send(dotw)
 
-#schedulecode used to be here now its at line 59
-
 @client.command()
 async def easteregg(ctx):
     await ctx.send('yes.')
