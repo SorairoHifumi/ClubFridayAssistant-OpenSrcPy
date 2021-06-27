@@ -9,7 +9,7 @@ import time
 import random
 
 load_dotenv()
-token = 'ODU3NjI1NzA5NDU4NDg5MzQ0.YNSULw.YHeku3tO6Fm5NulOkBYVTIDclfk' #Don't hack my bot pls
+token = 'not today boi...' #Don't hack my bot pls
 
 
 thisDay = datetime.date.today()
