@@ -1,4 +1,3 @@
-from typing import AsyncGenerator
 import discord
 import os
 from discord.ext import commands
