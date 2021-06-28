@@ -183,7 +183,7 @@ async def ctmr(ctx,cnum,period):
         embed.set_footer(text=f'{ctx.author.name} : 6/{cnum} {dayoftoday} #ERROR', icon_url = ctx.author.avatar_url)
         await ctx.send(embed=embed)
 
-client.command()
+@client.command()
 async def c(ctx,cnum,period):
     thisDay = datetime.date.today()
     dotw = thisDay.isoweekday()
