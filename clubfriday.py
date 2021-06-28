@@ -10,7 +10,7 @@ import time
 import random
 
 load_dotenv()
-token = 'not today buddy.' #Don't hack my bot pls
+token =  #Don't hack my bot pls
 
 
 thisDay = datetime.date.today()
@@ -37,8 +37,7 @@ dotwColor = {
 #Database
 #When update, also update at #####################################
 
-#Dict here define urls,teachername and schedule dict.
-
+#define urls, schedule, teachername
 
 
 client = commands.Bot(command_prefix='+')
@@ -59,6 +58,132 @@ async def db(ctx):
     #await ctx.send('Database Available : \n6/1(Subject, T.name , link)\n6/3(Subject , T.name , link)')
 
 @client.command()
+async def ctmr(ctx,cnum,period):
+    thisDay = datetime.date.today()
+    dotw = thisDay.isoweekday() + 1
+    
+    if dotw > 5:
+        dayoftoday = 'Weekend'
+    else:
+        dayoftoday = sourceDict['dotweek'][dotw - 1]
+    icnum = int(cnum)
+    iperiod = int(period)
+    color = dotwColor[dayoftoday]
+    
+    try:   
+        print(f'0:{icnum} {iperiod} {type(icnum)} {type(iperiod)}')
+        print(f'1:{dayoftoday}')
+        tunk = False # Declare Teacher Unknown
+        rec = 0#declare rec and ext
+        ext = 0
+        if icnum == 3 or icnum == 1: #if class have link add here#############################################################Add if link exist
+            hyperlink = urls[cnum][schedule[cnum][dayoftoday][iperiod - 1]]
+        else :
+            hyperlink = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+        print('end hyperlink init')
+        # for double class
+        #start classes#############################################################################Add if schedule have double class
+        if (icnum == 3): #3rd class
+            if dotw == 1: #Monday
+                if iperiod == 1 or iperiod == 3 or iperiod == 5:
+                    ext = 1
+            if dotw == 4:#Thursday
+                if iperiod == 3:
+                    ext = 1
+        if (icnum == 1):
+            if dotw == 1:
+                if iperiod == 3:
+                    ext = 1
+            if dotw == 3:
+                if iperiod == 1:
+                    ext = 1
+            if dotw == 4:
+                if iperiod == 5:
+                    ext = 1        
+        if (icnum == 5):
+            if dotw == 2:
+                if iperiod == 1 or iperiod == 3 or iperiod == 5:
+                    ext = 1
+            if dotw == 5:
+                if iperiod == 1:
+                    ext = 1
+        #end classes
+        if (icnum == 3):
+            if dotw == 1:
+                if iperiod == 2 or iperiod == 4 or iperiod == 6:
+                    rec = 1
+            if dotw == 4:
+                if iperiod == 4:
+                    rec = 1
+        if (icnum == 1):
+            if dotw == 1:
+                if iperiod == 4:
+                    rec = 1
+            if dotw == 3:
+                if iperiod == 2:
+                    rec = 1
+            if dotw == 4:
+                if iperiod == 6:
+                    rec = 1  
+        if (icnum == 5):
+            if dotw == 2:
+                if iperiod == 2 or iperiod == 4 or iperiod == 6:
+                    rec = 1
+            if dotw == 5:
+                if iperiod == 2:
+                    rec = 1
+        #end classes
+        print('end double class init')
+        print(f'{ext}{rec}')
+        if (icnum == 3 or icnum == 5): #I write it like this in case of same teachers#########################################Add if have T.name
+            tsrc = '3' #Teacher Source
+        elif (icnum == 1):
+            tsrc = '1' 
+            
+            #Add it here with elif
+        else:
+            tunk = True
+        if iperiod >= 5:
+            startTime = iperiod + 8#in case after lunch
+        else:
+            startTime = iperiod + 7# get hour of start time
+        print(f'test start:{startTime}')
+        endTime = startTime + 1 + ext # extend end time or reduce start time
+        startTime = startTime - rec
+        print('end time init')
+        print(f'0::{startTime} {endTime}')
+        if iperiod == 1 or iperiod == 2:
+            timenum = ':20'
+        elif iperiod >=3 or iperiod <= 5:
+            timenum = ':30'
+        elif iperiod >= 6:
+            timenum = ':40'
+        print(f'2:{timenum} {dotw}') 
+
+        if tunk == True:
+            teacher_name = 'Unknown'
+        if dotw > 5:
+            teacher_name = 'Unknown'
+        else:
+            teacher_name = teachername[tsrc][schedule[cnum][dayoftoday][iperiod - 1]]
+    #value init done
+        if (dotw > 5):
+            await ctx.send(random.choice(stupidWord) + "\nIf you think I'm wrong, try using +cindiv. More info at +listcmd")
+        elif (iperiod >= 8 or iperiod < 1):
+            await ctx.send('What?')
+        else:
+            print(f'finalize {cnum} {type(cnum)} {dayoftoday}') # For troubleshooting
+            embed = discord.Embed(title = f'{schedule[cnum][dayoftoday][iperiod - 1]}', description = f'Teacher : {teacher_name}\nDuration : {startTime}{timenum} - {endTime}{timenum}',url=hyperlink,color=color)
+            embed.set_footer(text=f'{ctx.author.name} : 6/{cnum} {dayoftoday} #{iperiod}', icon_url = ctx.author.avatar_url)
+            await ctx.send(embed=embed)
+            #await ctx.send(f'{schedule[cnum][dayoftoday][iperiod - 1]} \nStarts at {startTime}{timenum}')
+    
+    except: 
+        embed = discord.Embed(title = f'Unavailable', description = "I don't have your schedule in my Database \n type +db to check my database availability",color=0xff2222)
+        embed.set_footer(text=f'{ctx.author.name} : 6/{cnum} {dayoftoday} #ERROR', icon_url = ctx.author.avatar_url)
+        await ctx.send(embed=embed)
+
+client.command()
 async def c(ctx,cnum,period):
     thisDay = datetime.date.today()
     dotw = thisDay.isoweekday()
@@ -311,7 +436,7 @@ async def cindiv(ctx,dayofrequest,cnum,i):
         elif (icnum == 1):
             tsrc = '1' 
             teacher_name = teachername[cnum][req]
-        embed = discord.Embed(title = f'{req}', description = f'Teacher : {teacher_name}',url=hyperlink,color=dotwColor['Friday'])
+        embed = discord.Embed(title = f'{req}', description = f'Teacher : {teacher_name}',url=hyperlink,color=dotwColor[dayofrequest])
         embed.set_footer(text=f'{ctx.author.name} : 6/{cnum} #{i}(manual-input)', icon_url = ctx.author.avatar_url)
         await ctx.send(embed=embed)
     except:
