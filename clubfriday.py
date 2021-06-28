@@ -43,6 +43,12 @@ async def db(ctx):
 async def c(ctx,cnum,period):
     icnum = int(cnum)
     iperiod = int(period)
+    thisDay = datetime.date.today()
+    dotw = thisDay.isoweekday()
+    if dotw > 5:
+    dayoftoday = 'Weekend'
+    else:
+    dayoftoday = sourceDict['dotweek'][dotw - 1]
     print(f'0:{icnum} {iperiod} {type(icnum)} {type(iperiod)}')
     print(f'1:{dayoftoday}')
     tunk = False # Declare Teacher Unknown
@@ -146,7 +152,13 @@ async def clist(ctx,arg):
 
 @client.command()
 async def dayoftheweek(ctx):
-    await ctx.send(dotw)
+    thisDay = datetime.date.today()
+    dotw = thisDay.isoweekday()
+    if dotw > 5:
+    dayoftoday = 'Weekend'
+    else:
+    dayoftoday = sourceDict['dotweek'][dotw - 1]
+    await ctx.send(f'{dotw}:{dayoftoday}')
 
 
 
