@@ -152,6 +152,7 @@ async def clist(ctx,arg):
 
 @client.command()
 async def dayoftheweek(ctx):
+    global thisday, dotw, dayoftoday
     thisDay = datetime.date.today()
     dotw = thisDay.isoweekday()
     if dotw > 5:
