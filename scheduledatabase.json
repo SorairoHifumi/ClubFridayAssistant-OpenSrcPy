@@ -1,0 +1,411 @@
+{
+    "urls" : {
+
+        "6" : {
+            "1" : {
+                "Animation" : "http://classroom.google.com/",
+                "Workshop" : "https://teams.microsoft.com/l/channel/19%3a5lQajKHkAZGSFP1hcvQr6OZijaC-pWN-AmMtqEsWoM81%40thread.tacv2/General?groupId:452d822f-f0cb-4331-b7f1-4ce888995a92&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "ArtProject" : "https://teams.microsoft.com/l/channel/19%3aYU8yBNB-16j_ETUlGD1xXu9OJ39m0gWuRFK1YJWjdYs1%40thread.tacv2/General?groupId:7f916f02-856c-42fa-9a7a-4f3b4b1bd73d&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Art" : "https://teams.microsoft.com/l/channel/19%3aj9-JHQytpqDu4ItXKY1Xq_KYpelvakaTQrk78iu3ljA1%40thread.tacv2/General?groupId:09b8e3e4-d910-4ac6-98c7-3d5389cea470&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Listening" : "https://teams.microsoft.com/l/channel/19%3aKMuT5b33Z9D8CSucmO6rMLI_YWBJ48dR-jHCD5CqPC81%40thread.tacv2/General?groupId:578e485e-b9fa-4dc8-80a3-c3efafeea986&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "PhysicalEducation" : "https://teams.microsoft.com/l/channel/19%3a4bQkFjB4bYW2hI28eJvtOMKOIQHovfAanBz0ks3Wp8E1%40thread.tacv2/General?groupId:449a1b9f-ff81-48d3-becc-f7487c540dcd&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "CurrentEvent" : "https://teams.microsoft.com/l/channel/19%3a72ac4c6ed1b64017b87ce943179c8085%40thread.tacv2/General?groupId:c08c013d-27c3-4da8-8c0d-0f76b394c2d9&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Mathematics" : "https://teams.microsoft.com/l/channel/19%3af2YJuG8sd41yDOkDiuU1Ov9gvU8KqBdbh7Qaofeu_j81%40thread.tacv2/General?groupId:c5d1025e-a519-4e80-a989-9d02b9b0a71e&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Thai" : "https://teams.microsoft.com/l/channel/19%3aUhomJZvojdaYgYL01MINwR4pkjv9_8Du4-IeB994Fvg1%40thread.tacv2/General?groupId:4bbe386e-12a4-4fcf-b50e-f7c2424ee9cc&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Grammar" : "https://teams.microsoft.com/l/channel/19%3af49fac7362684ea59865e42aebb793a7%40thread.tacv2/General?groupId:74157026-e2d7-407a-838e-573cf2614bed&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Literature" : "https://teams.microsoft.com/l/channel/19%3ad7HMK0LiaRypnAf1WstkSooGTjYwGCeEEmTZC2zOdh01%40thread.tacv2/General?groupId:007371f3-daf6-499d-a193-c65a807ca29f&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Economics" : "https://teams.microsoft.com/l/channel/19%3aUAJZcoKwCojfBDHr_2b2CNEUKVGWdhuaiNUMTah2b3U1%40thread.tacv2/General?groupId:b967fcd0-27fa-421e-a49a-9cbe5349a9d0&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Science" : "https://teams.microsoft.com/l/channel/19%3aB-nShcjx006dKM6mRMM8ZAw5h0pRVEg1q2hBDPSxf641%40thread.tacv2/General?groupId:5ed04663-29fb-46bd-8ab8-916111af8e79&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Social" : "https://teams.microsoft.com/l/channel/19%3aWFAAfcoHb-QHPhhZy5Pc7uE1XK5FMnNrRmfLWC-WWpM1%40thread.tacv2/General?groupId:15a3140c-ac08-4a25-b4c3-a60b74f1cec2&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Web Design" : "http://classroom.google.com/",
+                "Guidance" : "https://teams.microsoft.com/l/channel/19%3aeS6tt3sPS2q2lP83JPBkwWDDl70vsNIassi4ZV82A_E1%40thread.tacv2/General?groupId:e7bab30f-a6fc-4a57-a9c4-8255df9177c0&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Elective" : "https://www.youtube.com/watch?v:y6120QOlsfU",
+                "Writing" : "https://teams.microsoft.com/l/channel/19%3andAC2qP0gp17w98phNFQeAKvWEWkaFCfrQiyV45Rehs1%40thread.tacv2/General?groupId:9ec42380-eb32-472b-870f-351c22ae8cec&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "WorkEducation" : "https://teams.microsoft.com/l/channel/19%3aLbFCsq6x2UFS9tH03LLFQf9_JM0ENAXanoVxS_xsOeM1%40thread.tacv2/General?groupId:09900c21-7fab-4966-9224-69a730919f75&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "GraphicDesign" : "https://teams.microsoft.com/l/channel/19%3a_LO7W35RDGEi1fpqSc0cGVmn8BoQfUjgbir1mVDnrSY1%40thread.tacv2/General?groupId:1768f5e5-8952-480f-af1b-d89e74def11d&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Club" : "https://tetr.io",
+                "None" : "https://0.0.0.0",
+                "Homeroom" : "https://teams.microsoft.com/l/channel/19%3axzwCO-EdJP2d3BvA7BX-FgBePz19a56hNvxJgbAGqec1%40thread.tacv2/General?groupId:51c37b30-bd90-4ce6-bad6-9133b7915743&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d"
+            },
+            
+            "3" : {
+                "Homeroom" : "https://teams.microsoft.com/l/team/19%3a11Cyygyt7CArYDMpd6H1vuDESl37TvG4qWX0kK-9L_01%40thread.tacv2/conversations?groupId:ca14ebd6-2495-4478-9810-cbb7f118ea4f&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Physics" : "https://teams.microsoft.com/l/team/19%3awiRyWxv-a2ufOGA1K9eulIvOvHwK-RWUNX0fcc13zZQ1%40thread.tacv2/conversations?groupId:c4862ed4-ef78-427e-89be-af6050a340d3&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Biology" : "https://meet.google.com/lookup/cqkhpez4d2",
+                "EarthScience" : "https://teams.microsoft.com/l/team/19%3ab3IfEr1z-62aKpWpEwsHFB2QOA--FSQyVCi7oyqL46k1%40thread.tacv2/conversations?groupId:11fe7652-a13b-435d-a7bb-778769116400&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Meteorology" : "https://teams.microsoft.com/l/team/19%3aU0d_CgNsCQOdF47GSbhnwY2VJWW3kzXcj239qQNqBXQ1%40thread.tacv2/conversations?groupId:b8f8b8e6-873b-4f85-af11-11a918df14e8&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Thai" : "https://teams.microsoft.com/l/team/19%3aCmcc60pZF1yfQa7o4cGC4XR6o9OlRgjKh-EOEdqvhq81%40thread.tacv2/conversations?groupId:45eb15da-9003-4af8-b9ee-014e483971b5&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "GrammarTuesday" : "https://teams.microsoft.com/l/team/19%3a7dd03270c207459c88a18a19e9098da3%40thread.tacv2/conversations?groupId:e63e1193-319e-4aa4-ba89-234ab130d3e0&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d" ,
+                "GrammarWednesday" : "https://teams.microsoft.com/l/team/19%3aa36ed0923b19478384d57ddfaf7469fd%40thread.tacv2/conversations?groupId:c63baa94-2b57-4b90-aa68-c72ef90508d7&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "AppliedScience" : "https://teams.microsoft.com/l/team/19%3a21d35345de9349f8abc9d27a2ea99aad%40thread.tacv2/conversations?groupId:141f44f7-1fe6-4ed4-bdf1-1a11b69ff73f&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Mathematics" : "https://teams.microsoft.com/l/team/19%3aIgymq5NY3W00sljDTPLR7fF3CrJZaYRbXP3hUrOxQ3w1%40thread.tacv2/conversations?groupId:fa1209cf-db59-4f85-bc08-7bda6c95a677&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "MathematicsONET" : "https://teams.microsoft.com/l/team/19%3ag7HLaYPMCBBDcD-kO3lt9ZgpY8EzHira5WcEZMT9c5g1%40thread.tacv2/conversations?groupId:1a4211d1-16fb-4ec2-9c29-dce18e12754e&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Chemistry" : "https://teams.microsoft.com/l/team/19%3aCsHy_jRXNJelEjwsHg4h2GEsOIXJUjUtqxDLmQtXtn81%40thread.tacv2/conversations?groupId:b5e924f3-ddb7-4a2b-9c99-0838b7ede423&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Social" : "https://teams.microsoft.com/l/team/19%3abot5qj5PykPWN-fHUpyW9_OJoqJNPEMvZY9eXP2aFlI1%40thread.tacv2/conversations?groupId:7eb5370b-a635-43c8-ac6e-f64746017054&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Animation" : "https://meet.google.com/lookup/blya7bttty",
+                "WorkEducation" : "https://teams.microsoft.com/l/team/19%3a0BAWx0rDhcOIx8YT8OOKqFfTZeVhDftFcO87fWwblE01%40thread.tacv2/conversations?groupId:1e17b7d3-238b-45a1-88a6-91842dd40ce4&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Art" : "https://teams.microsoft.com/l/team/19%3a27f4Iiu4DafLtuUCygNIPbTGyPjA3kwz8tYrrnpbF_I1%40thread.tacv2/conversations?groupId:12b24a4a-df09-4ac8-a6f6-709d557f4523&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "EnglishOnline" : "https://teams.microsoft.com/l/team/19%3ab_sA-B9928ifxIO7ZTVZ_gcqMyiA_BRWxtDLrEBkzaU1%40thread.tacv2/conversations?groupId:54084e6b-e52a-47dd-b850-191394f45a5c&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Vocabulary" : "https://teams.microsoft.com/l/team/19%3aE_gYMPZDhcxQFviozeUr0NoFrQYPjTzgt-tYow_tiH01%40thread.tacv2/conversations?groupId:8b6feaeb-15d4-4c5c-8c50-a7ac67f1dbfc&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Guidance" : "https://teams.microsoft.com/l/team/19%3az9fQL5MOPKBZxMYFkTKU4bXAj2lXE0RyK-9NRbC7Atw1%40thread.tacv2/conversations?groupId:dbe4f198-53db-421f-adfd-4a3005c17c79&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "PhysicalEducation" : "https://teams.microsoft.com/l/team/19%3a_EpdOGtQ1krG3rl6e-prLPkB_-Bq9ncjgwhb4iTohLA1%40thread.tacv2/conversations?groupId:cc655c61-d65b-4f82-b3b0-93bfcfa986ac&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Club" : "https://tetr.io",
+                "None" : "https://127.0.0.1"
+                
+            }
+        }
+    },
+        
+    "teachername" : {
+        "4":{
+            "3":{
+                "Chemistry" : "Chatsuda",
+                "Guidance" :"Walaithip",
+                "Thai" : "Suratta",
+                "ThaiWriting" : "Suratta",
+                "MathSupplement" : "Rattaphon",
+                "Biology" :"Sukanya",
+                "Science" :"Patsagon",
+                "Programs" : "Monaphat",
+                "Social" :"Sawittree",
+                "History" :"Sawittree",
+                "Physics" :"Tanongsak",
+                "Mathematics" :"Ketkanok",
+                "PhysicalEducation" :"Attaphorn",
+                "WorkEducation" : "Phornthip",
+                "Vocabulary" :"Thutsanai",
+                "Grammar" :"Jiranut",
+                "Art" :"Niphon",
+                "Club" : "Depends.",
+                "None" : "None"
+           },
+           "4":{
+                "Chemistry" : "Chatsuda",
+                "Guidance" :"Walaithip",
+                "Thai" : "Suratta",
+                "ThaiWriting" : "Suratta",
+                "MathSupplement" : "Rattaphon",
+                "Biology" :"Sukanya",
+                "Science" :"Patsagon",
+                "Programs" : "Monaphat",
+                "Social" :"Sawittree",
+                "History" :"Sawittree",
+                "Physics" :"Tanongsak",
+                "Mathematics" :"Ketkanok",
+                "PhysicalEducation" :"Attaphorn",
+                "WorkEducation" : "Phornthip",
+                "Vocabulary" :"Thutsanai",
+                "Grammar" :"Jiranut",
+                "Art" :"Niphon",
+                "Club" : "Depends.",
+                "None" : "None"
+           },
+           "5":{
+                "Chemistry" : "Chatsuda",
+                "Thai" : "Suratta",
+                "ThaiWriting" : "Suratta",
+                "MathSupplement" : "Rattaphon",
+                "Guidance" :"Walaithip",
+                "Biology" :"Sukanya",
+                "Science" :"Patsagon",
+                "Programs" : "Monaphat",
+                "Social" :"Supharat",
+                "History" :"Sakda",
+                "Physics" :"Tanongsak",
+                "Mathematics" :"Ketkanok",
+                "PhysicalEducation" :"Attaphorn",
+                "WorkEducation" : "Phornthip",
+                "Vocabulary" :"Thutsanai",
+                "Grammar" :"Jiranut",
+                "Art" :"Niphon",
+                "Club" : "Depends.",
+                "None" : "None"
+           },
+           "6":{
+                "Chemistry" : "Chatsuda",
+                "Thai" : "Jirasuda",
+                "ThaiWriting" : "Suratta",
+                "MathSupplement" : "Rattaphon",
+                "Biology" :"Sukanya",
+                "Science" :"Patsagon",
+                "Programs" : "Monaphat",
+                "Social" :"Supharat",
+                "History" :"Sakda",
+                "Guidance" :"Walaithip",
+                "Physics" :"Tanongsak",
+                "Mathematics" :"Ketkanok",
+                "PhysicalEducation" :"Panatda",
+                "WorkEducation" : "Phornthip",
+                "Vocabulary" :"Thutsanai",
+                "Grammar" :"Jiranut",
+                "Art" :"Niphon",
+                "Club" : "Depends.",
+                "None" : "None"
+           }
+        },
+        "5":{
+            "3":{
+                "Biology":"Mantana",
+                "WorkEducation":"Siriluk",
+                "Social":"Sakda",
+                "Chemistry":"Akkarawat",
+                "Art":"Ornwara",
+                "Programs":"Wirote",
+                "Physics":"Luckmongkol",
+                "MathSupplement":"Peeraphat",
+                "Vocabulary":"Natamon",
+                "History":"Supharat",
+                "PhysicalEducation":"Panatda",
+                "Thai":"Sasiwong",
+                "Grammar":"Anchalee",
+                "Mathematics":"Patsagon",
+                "Guidance":"Kanita",
+                "Conversation":"Muhammad",
+                "Club":"Depends.",
+                "None":"None"
+            },
+            "4":{
+                "Biology":"Mantana",
+                "WorkEducation":"Siriluk",
+                "Social":"Sakda",
+                "Chemistry":"Akkarawat",
+                "Art":"Ornwara",
+                "Programs":"Wirote",
+                "Physics":"Luckmongkol",
+                "MathSupplement":"Peeraphat",
+                "Vocabulary":"Natamon",
+                "History":"Supharat",
+                "PhysicalEducation":"Panatda",
+                "Thai":"Supinya",
+                "Grammar":"Anchalee",
+                "Mathematics":"Patsagon",
+                "Guidance":"Kanita",
+                "Conversation":"Muhammad",
+                "Club":"Depends.",
+                "None":"None"
+            }
+        },
+        "6": {
+            "1" : {
+                "Animation" : "Monaphat",
+                "Workshop" : "Kittiphat",
+                "ArtProject" : "Teeranan",
+                "Art" : "Teeranan",
+                "Listening" : "Panicha",
+                "PhysicalEducation" : "Attaphorn",
+                "CurrentEvent" : "Pramote",
+                "Mathematics" : "Potchanee",
+                "Thai" : "Sasinut",
+                "Grammar" : "Apinya",
+                "Literature" : "Armad",
+                "Economics" : "Athiporn",
+                "Science" : "Phittaphorn",
+                "Social" : "Chalong",
+                "WebDesign" : "Siriyupin",
+                "Guidance" : "Penphan",
+                "Elective" : "Depends",
+                "Writing" : "Natamon",
+                "WorkEducation" : "Siriluk",
+                "GraphicDesign" : "Nattawan",
+                "Club" : "Depends.",
+                "None" : "None"
+                        
+            },
+            "3" : {
+                "Physics" : "Songkrod Kaewsirnual",
+                "Biology" : "Pakamon Thipnet",
+                "EarthScience" : "Boonsong Henngam",
+                "Meteorology" : "Boonsong Henngam",
+                "Thai" : "Sasinut Khumsubdee",
+                "GrammarTuesday" : "Apinya Chaikul" ,
+                "GrammarWednesday" : "Apinya Chaikul" ,
+                "GrammarThursday" : "Apinya Chaikul" ,
+                "GrammarFriday" : "Apinya Chaikul" ,
+                "AppliedScience" : "Tanongsak Prasopkittikun",
+                "Mathematics" : "Potchanee Thoengchang",
+                "MathematicsONET" : "Atittaya Samae",
+                "Chemistry" : "Phonchan Sangkarn",
+                "Social" : "Athiporn Makpoon",
+                "Animation" : "Monaphat Chockananruttana",
+                "WorkEducation" : "Siriluk Chaibundit",
+                "Art" : "Teeranan Choocherd",
+                "EnglishOnline" : "Apinya Chaikul",
+                "Vocabulary" : "Natamon Keeratichotigool",
+                "Guidance" : "Penphan Apiratiwanon",
+                "PhysicalEducation" : "Attaphorn Prasittinava",
+                "Club" : "Depends.",
+                "None" : "None"
+            },
+            "5" : {
+                "Physics" : "Songkrod Kaewsirnual",
+                "Biology" : "Pakamon Thipnet",
+                "EarthScience" : "Boonsong Henngam",
+                "Meteorology" : "Boonsong Henngam",
+                "Thai" : "Sasinut Khumsubdee",
+                "GrammarTuesday" : "Apinya Chaikul" ,
+                "GrammarWednesday" : "Apinya Chaikul" ,
+                "GrammarThursday" : "Apinya Chaikul" ,
+                "GrammarFriday" : "Apinya Chaikul" ,
+                "AppliedScience" : "Tanongsak Prasopkittikun",
+                "Mathematics" : "Potchanee Thoengchang",
+                "MathematicsONET" : "Atittaya Samae",
+                "Chemistry" : "Phonchan Sangkarn",
+                "Social" : "Athiporn Makpoon",
+                "Animation" : "Monaphat Chockananruttana",
+                "WorkEducation" : "Siriluk Chaibundit",
+                "Art" : "Teeranan Choocherd",
+                "EnglishOnline" : "Apinya Chaikul",
+                "Vocabulary" : "Natamon Keeratichotigool",
+                "Guidance" : "Penphan Apiratiwanon",
+                "PhysicalEducation" : "Attaphorn Prasittinava",
+                "Club" : "Depends.",
+                "None" : "None"
+            },
+            "6" : {
+                "Physics" : "Songkrod Kaewsirnual",
+                "Biology" : "Pakamon Thipnet",
+                "EarthScience" : "Boonsong Henngam",
+                "Meteorology" : "Boonsong Henngam",
+                "Thai" : "Sasinut Khumsubdee",
+                "GrammarTuesday" : "Apinya Chaikul" ,
+                "GrammarWednesday" : "Apinya Chaikul" ,
+                "GrammarThursday" : "Apinya Chaikul" ,
+                "GrammarFriday" : "Apinya Chaikul" ,
+                "AppliedScience" : "Tanongsak Prasopkittikun",
+                "Mathematics" : "Potchanee Thoengchang",
+                "MathematicsONET" : "Atittaya Samae",
+                "Chemistry" : "Phonchan Sangkarn",
+                "Social" : "Athiporn Makpoon",
+                "Animation" : "Monaphat Chockananruttana",
+                "WorkEducation" : "Siriluk Chaibundit",
+                "Art" : "Teeranan Choocherd",
+                "EnglishOnline" : "Apinya Chaikul",
+                "Vocabulary" : "Natamon Keeratichotigool",
+                "Guidance" : "Penphan Apiratiwanon",
+                "PhysicalEducation" : "Attaphorn Prasittinava",
+                "Club" : "Depends.",
+                "None" : "None"
+            }
+         }
+    },
+    "schedule" : {
+        "4":{
+            "3":{
+                "Monday":["Chemistry","Chemistry","Thai","MathSupplement","Biology","Biology","None"],
+                "Tuesday":["Science","Science","Programs","Social","Physics","Physics","None"],
+                "Wednesday":["Chemistry","Mathematics","MathSupplement","Social","Thai","PhysicalEducation","None"],
+                "Thursday":["ThaiWriting","Physics","Mathematics","WorkEducation","Vocabulary","Grammar","None"],
+                "Friday":["Biology","History","MathSupplement","Art","Guidance","Club","None"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+            },
+            "4":{
+                "Monday":["Science","Science","MathSupplement","Thai","Physics","Physics","None"],
+                "Tuesday":["Biology","Biology","Mathematics","Programs","Thai","Social","None"],
+                "Wednesday":["Mathematics","MathSupplement","Chemistry","Chemistry","PhysicalEducation","History","None"],
+                "Thursday":["MathSupplement","ThaiWriting","Guidance","Social","Physics","Vocabulary","None"],
+                "Friday":["Art","Biology","Grammar","WorkEducation","Chemistry","Club","None"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+            }, 
+            "5":{
+                "Monday":["Physics","Physics","Grammar","PhysicalEducation","Science","Science","None"],
+                "Tuesday":["Physics","Social","MathSupplement","Art","Programs","Thai","None"],
+                "Wednesday":["MathSupplement","Social","Biology","Biology","Chemistry","Chemistry"],
+                "Thursday":["Listening","MathSupplement","Thai","History","Guidance","Mathematics","None"],
+                "Friday":["ThaiWriting","Mathematics","WorkEducation","Chemistry","Biology","Club"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+            },
+            "6":{
+                "Monday":["Thai","MathSupplement","Programs","Grammar","PhysicalEducation","ThaiWriting","None"],
+                "Tuesday":["Chemistry","Chemistry","Guidance","Mathematics","Social","MathSupplement","None"],
+                "Wednesday":["Physics","Physics","Science","Science","Social","Thai","None"],
+                "Thursday":["WorkEducation","Listening","MathSupplement","Physics","Biology","Biology","None"],
+                "Friday":["History","Chemistry","Mathematics","Biology","Art","Club","None"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+            }
+        },
+        "5":{
+            "3":{
+                "Monday" :["Biology","Biology","WorkEducation","Social","Chemistry","Chemistry","None"],
+                "Tuesday":["Art","Programs","Physics","Physics","MathSupplement","Vocabulary","None"],
+                "Wednesday" :["History","Chemistry","Chemistry","Social","PhysicalEducation","Thai","None"],
+                "Thursday" :["Physics","MathSupplement","Biology","Grammar","Mathematics","Chemistry"],
+                "Friday" :["Mathematics","Guidance","MathSupplement","Conversation","Thai","Club","None"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+            },
+            "4":{
+                "Monday" :["Vocabulary","History","MathSupplement","WorkEducation","Mathematics","Social","None"],
+                "Tuesday":["Biology","Biology","Programs","Thai","Chemistry","Chemistry","None"],
+                "Wednesday" :["Physics","Physics","MathSupplement","Art","Chemistry","Chemistry","None"],
+                "Thursday" :["MathSupplement","Grammar","Chemistry","Biology","Conversation","Mathematics","None"],
+                "Friday" :["Thai","PhysicalEducation","Guidance","Physics","Social","Club","None"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+            }
+            
+        },
+        "6" : {
+            "1" : {
+                "Monday":["Animation" , "Workshop" , "ArtProject" , "ArtProject" , "Listening" , "PhysicalEducation","None"],
+                "Tuesday":["CurrentEvent" , "Mathematics" , "Thai" , "Grammar" , "Literature" , "Economics","None"],
+                "Wednesday": ["Science" ,"Science", "Social" , "Art" , "CurrentEvent" , "Thai","None"],
+                "Thursday": ["WebDesign" , "Guidance" , "Mathematics" , "Social" , "Elective" , "Elective","None"],
+                "Friday": ["Writing" , "WorkEducation" , "Listening" , "Literature" , "GraphicDesign" , "Club","None"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+            },
+            "3" : {
+                "Monday": ["Physics","Physics","Biology","Biology","EarthScience","EarthScience","None"],
+                "Tuesday": ["Thai","GrammarTuesday","AppliedScience","Mathematics","MathematicsONET","Chemistry","None"],
+                "Wednesday": ["Physics","Mathematics","GrammarWednesday","Social","Thai","Animation","None"],
+                "Thursday": ["Meteorology","MathematicsONET","Chemistry","Chemistry","WorkEducation","Art","EnglishOnline"],
+                "Friday": ["Social","Vocabulary","Guidance","PhysicalEducation","Mathematics","Club","None"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+                
+            },
+            "5" : {
+                "Monday": ["MathematicsONET","Meteorology","Mathematics","Chemistry","Social","Thai","None"],
+                "Tuesday": ["Physics","Physics","Biology","Biology","EarthScience","EarthScience","None"],
+                "Wednesday": ["Social","Vocabulary","Art","Mathematics","Physics","MathematicsONET","None"],
+                "Thursday": ["AppliedScience","Thai","PhysicalEducation","Guidance","GrammarThursday","Animation","EnglishOnline"],
+                "Friday": ["Chemistry","Chemistry","Mathematics","GrammarFriday","WorkEducation","Club","None"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+            },
+            "6" : {
+                "Monday": ["Thai","Chemistry","Meteorology","MathematicsONET","Art","Social","None"],
+                "Tuesday": ["Chemistry","Chemistry","Physics","Physics","Social","Thai","None"],
+                "Wednesday": ["Biology","Biology","EarthScience","EarthScience","Mathematics","Physics","None"],
+                "Thursday": ["WorkEducation","Animation","Vocabulary","PhysicalEducation","Mathematics","GrammarThursday","EnglishOnline"],
+                "Friday": ["MathematicsONET","Mathematics","GrammarFriday","Guidance","AppliedScience","Club","None"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+            }
+        }
+    },
+    
+    
+    "information":{
+        "lastupdate" : "10/7/2021 1:26",
+        "version" : "v11 (1/2564)",
+        "dbclasslist" : [
+            "4/3  (3/4 75%)", 
+            "4/4  (3/4 75%)",
+            "4/5  (3/4 75%)", 
+            "4/6  (3/4 75%)",
+            "5/3  (3/4 75%)",
+            "5/4  (3/4 75%)",
+            "6/1  (4/4 100%)",
+            "6/3  (4/4 100%)",
+            "6/5  (3/4 75%)", 
+            "6/6  (3/4 75%)"
+        ],
+        "dbvaluelist" : [
+            "*No link*",
+            "*No link*",
+            "*No link*",
+            "*No link*",
+            "*No link*",
+            "*No link*",
+            "-Avail-",
+            "-Avail-",
+            "*No link*",
+            "*No link*"
+        ]
+    }
+}
