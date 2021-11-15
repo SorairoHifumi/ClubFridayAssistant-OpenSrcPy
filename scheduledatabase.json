@@ -1,0 +1,160 @@
+{
+    "urls" : {
+
+        "6" : {
+            "1" : {
+                "Animation" : "http://classroom.google.com/",
+                "Workshop" : "https://teams.microsoft.com/l/channel/19%3a5lQajKHkAZGSFP1hcvQr6OZijaC-pWN-AmMtqEsWoM81%40thread.tacv2/General?groupId:452d822f-f0cb-4331-b7f1-4ce888995a92&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "PortfolioDesign" : "https://teams.microsoft.com/l/team/19%3auKKCYhOt0Kj-EPOAZBXS1fYSj9qgPhAM-KUnGLFBopM1%40thread.tacv2/conversations?groupId=aaa5db18-e2ce-46ea-8b07-2c9e938afe93&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Art" : "https://teams.microsoft.com/l/channel/19%3aj9-JHQytpqDu4ItXKY1Xq_KYpelvakaTQrk78iu3ljA1%40thread.tacv2/General?groupId:09b8e3e4-d910-4ac6-98c7-3d5389cea470&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Listening" : "https://teams.microsoft.com/l/team/19%3apWT8IcFmHrVidONP0u9-LMjhUDl46j467VRllrboQ2I1%40thread.tacv2/conversations?groupId=079249b6-3bd7-44ab-a1ba-64d860ca2e3d&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "PhysicalEducation" : "https://teams.microsoft.com/l/channel/19%3a4bQkFjB4bYW2hI28eJvtOMKOIQHovfAanBz0ks3Wp8E1%40thread.tacv2/General?groupId:449a1b9f-ff81-48d3-becc-f7487c540dcd&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Geography" : "https://teams.microsoft.com/l/team/19%3aa481a06b1125463e97e76c8697f52b48%40thread.tacv2/conversations?groupId=931bb32e-b4d5-4c3d-ac81-03f1a523483d&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Mathematics" : "https://teams.microsoft.com/l/channel/19%3af2YJuG8sd41yDOkDiuU1Ov9gvU8KqBdbh7Qaofeu_j81%40thread.tacv2/General?groupId:c5d1025e-a519-4e80-a989-9d02b9b0a71e&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Thai" : "https://teams.microsoft.com/l/team/19%3acmOGgPfPFPt6qKctGBy5IBi-aBjbHLulhDELfNH36CQ1%40thread.tacv2/conversations?groupId=664d36ad-7c5c-4f1c-8cb7-0ad45635921e&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Grammar" : "https://teams.microsoft.com/l/team/19%3afBijzEk6r9aZOv0weM0wBK45sVZENGgdrsz4cX04A_Y1%40thread.tacv2/conversations?groupId=7baaae98-5b7d-417c-86c8-41cd94bf7b96&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Grammar2" : "https://teams.microsoft.com/l/team/19%3aa9G7L1I2wM-v0sFwbJYhlJaOJxCZMhAGKHprk80RZdQ1%40thread.tacv2/conversations?groupId=5d386892-742a-42f2-b835-b5e2e81c75a1&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Literature" : "https://teams.microsoft.com/l/channel/19%3ad7HMK0LiaRypnAf1WstkSooGTjYwGCeEEmTZC2zOdh01%40thread.tacv2/General?groupId:007371f3-daf6-499d-a193-c65a807ca29f&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Economics" : "https://teams.microsoft.com/l/channel/19%3aUAJZcoKwCojfBDHr_2b2CNEUKVGWdhuaiNUMTah2b3U1%40thread.tacv2/General?groupId:b967fcd0-27fa-421e-a49a-9cbe5349a9d0&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Science" : "https://teams.microsoft.com/l/channel/19%3aB-nShcjx006dKM6mRMM8ZAw5h0pRVEg1q2hBDPSxf641%40thread.tacv2/General?groupId:5ed04663-29fb-46bd-8ab8-916111af8e79&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Social" : "https://teams.microsoft.com/l/channel/19%3aWFAAfcoHb-QHPhhZy5Pc7uE1XK5FMnNrRmfLWC-WWpM1%40thread.tacv2/General?groupId:15a3140c-ac08-4a25-b4c3-a60b74f1cec2&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "WebDesign" : "http://classroom.google.com/",
+                "Guidance" : "https://teams.microsoft.com/l/team/19%3aAwre8FlG14NfubWvTwli-hbY3l4n6gDsd5okFyKzqRY1%40thread.tacv2/conversations?groupId=33928ad1-90c7-4f48-8649-ab0d459a4995&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Elective" : "https://www.youtube.com/watch?v:y6120QOlsfU",
+                "Writing" : "https://teams.microsoft.com/l/channel/19%3andAC2qP0gp17w98phNFQeAKvWEWkaFCfrQiyV45Rehs1%40thread.tacv2/General?groupId:9ec42380-eb32-472b-870f-351c22ae8cec&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "WorkEducation" : "https://teams.microsoft.com/l/channel/19%3aLbFCsq6x2UFS9tH03LLFQf9_JM0ENAXanoVxS_xsOeM1%40thread.tacv2/General?groupId:09900c21-7fab-4966-9224-69a730919f75&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "ProductDesign" : "https://teams.microsoft.com/l/team/19%3aTSBVCSKkFI04tJYmt2hTVThaOupKxSQUWpB8RPD0dTg1%40thread.tacv2/conversations?groupId=7d186dab-4bdb-4374-bbce-09c4137489f3&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Club" : "https://tetr.io",
+                "None" : "https://127.0.0.1",
+                "Homeroom" : "https://teams.microsoft.com/l/channel/19%3axzwCO-EdJP2d3BvA7BX-FgBePz19a56hNvxJgbAGqec1%40thread.tacv2/General?groupId:51c37b30-bd90-4ce6-bad6-9133b7915743&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Dancing" : "https://teams.microsoft.com/l/team/19%3a15120f0d16ea420a81c6932c569bb16b%40thread.tacv2/conversations?groupId=6910bd49-ae9c-4c14-a4be-64c314e684e7&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Music" : "https://teams.microsoft.com/l/team/19%3anme8EN5zrwADO59YJ0jvSznjecr6cQCVhiKFaoITOcw1%40thread.tacv2/conversations?groupId=ef39ee52-dcad-453b-8b67-2ea0a71c2638&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d"
+            },
+            
+            "3" : {
+                "Homeroom" : "https://teams.microsoft.com/l/team/19%3a11Cyygyt7CArYDMpd6H1vuDESl37TvG4qWX0kK-9L_01%40thread.tacv2/conversations?groupId:ca14ebd6-2495-4478-9810-cbb7f118ea4f&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Physics" : "https://teams.microsoft.com/l/team/19%3awiRyWxv-a2ufOGA1K9eulIvOvHwK-RWUNX0fcc13zZQ1%40thread.tacv2/conversations?groupId:c4862ed4-ef78-427e-89be-af6050a340d3&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Biology" : "https://meet.google.com/lookup/cqkhpez4d2",
+                "Astronomy" : "https://teams.microsoft.com/l/team/19%3annx94y3j0panzUvLFVroMc-mWByS17pE89vQdtfN7hU1%40thread.tacv2/conversations?groupId=dc443a51-40ff-41f8-a6b1-3694a387514c&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "EarthScience" : "https://teams.microsoft.com/l/team/19%3aIXeoZPhn9MKqtVR4EfquFviv3Sbdl0pyR9pPItegNHc1%40thread.tacv2/conversations?groupId=d1f750f8-97d6-473d-a9a9-432a076a710b&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Meteorology" : "https://teams.microsoft.com/l/team/19%3aU0d_CgNsCQOdF47GSbhnwY2VJWW3kzXcj239qQNqBXQ1%40thread.tacv2/conversations?groupId:b8f8b8e6-873b-4f85-af11-11a918df14e8&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Thai" : "https://teams.microsoft.com/l/team/19%3ar_B_KDy3_ZHHVfRs8O7CCUu6KHUtRJFlUD2XHRQPgz81%40thread.tacv2/conversations?groupId=0c2db146-730f-464f-a55e-1385a53cce8c&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "AppliedScience" : "https://teams.microsoft.com/l/team/19%3a21d35345de9349f8abc9d27a2ea99aad%40thread.tacv2/conversations?groupId:141f44f7-1fe6-4ed4-bdf1-1a11b69ff73f&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Mathematics" : "https://teams.microsoft.com/l/team/19%3aIgymq5NY3W00sljDTPLR7fF3CrJZaYRbXP3hUrOxQ3w1%40thread.tacv2/conversations?groupId:fa1209cf-db59-4f85-bc08-7bda6c95a677&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "MathematicsONET" : "https://teams.microsoft.com/l/team/19%3ag7HLaYPMCBBDcD-kO3lt9ZgpY8EzHira5WcEZMT9c5g1%40thread.tacv2/conversations?groupId:1a4211d1-16fb-4ec2-9c29-dce18e12754e&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Chemistry" : "https://teams.microsoft.com/l/team/19%3aCsHy_jRXNJelEjwsHg4h2GEsOIXJUjUtqxDLmQtXtn81%40thread.tacv2/conversations?groupId:b5e924f3-ddb7-4a2b-9c99-0838b7ede423&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Social" : "https://teams.microsoft.com/l/team/19%3abot5qj5PykPWN-fHUpyW9_OJoqJNPEMvZY9eXP2aFlI1%40thread.tacv2/conversations?groupId:7eb5370b-a635-43c8-ac6e-f64746017054&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Animation" : "https://meet.google.com/lookup/blya7bttty",
+                "WorkEducation" : "https://teams.microsoft.com/l/team/19%3a0BAWx0rDhcOIx8YT8OOKqFfTZeVhDftFcO87fWwblE01%40thread.tacv2/conversations?groupId:1e17b7d3-238b-45a1-88a6-91842dd40ce4&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Art" : "https://teams.microsoft.com/l/team/19%3a27f4Iiu4DafLtuUCygNIPbTGyPjA3kwz8tYrrnpbF_I1%40thread.tacv2/conversations?groupId:12b24a4a-df09-4ac8-a6f6-709d557f4523&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "EnglishOnline" : "https://teams.microsoft.com/l/team/19%3ab_sA-B9928ifxIO7ZTVZ_gcqMyiA_BRWxtDLrEBkzaU1%40thread.tacv2/conversations?groupId:54084e6b-e52a-47dd-b850-191394f45a5c&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Vocabulary" : "https://teams.microsoft.com/l/team/19%3aE_gYMPZDhcxQFviozeUr0NoFrQYPjTzgt-tYow_tiH01%40thread.tacv2/conversations?groupId:8b6feaeb-15d4-4c5c-8c50-a7ac67f1dbfc&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Guidance" : "https://teams.microsoft.com/l/team/19%3aTk498Wq_8yetO4Ducs8WU-ztuxhHsvPb2tb88sV0lHc1%40thread.tacv2/conversations?groupId=8e76468b-057a-455f-bed7-52863479f5fd&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "PhysicalEducation" : "https://teams.microsoft.com/l/team/19%3a_EpdOGtQ1krG3rl6e-prLPkB_-Bq9ncjgwhb4iTohLA1%40thread.tacv2/conversations?groupId:cc655c61-d65b-4f82-b3b0-93bfcfa986ac&tenantId:80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Music" :"https://teams.microsoft.com/l/team/19%3aFmPcioXRhhMtynm7pdJ3-IOi4Jc1OFH4RD_0OfmdDzc1%40thread.tacv2/conversations?groupId=3f8fabc0-dafd-44bf-b37f-e0503be11a1f&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "Dancing" : "https://teams.microsoft.com/l/team/19%3a5f8c51d215b6472aaa8ce1acec9c8b06%40thread.tacv2/conversations?groupId=1f050b00-4199-435a-b512-1e7c22590a83&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "GrammarThursday" : "https://teams.microsoft.com/l/team/19%3aCxZUON8JqGo5H9WmmaHjOjXzek7h7wfhxDBvpZrSpKc1%40thread.tacv2/conversations?groupId=311e01cf-6e59-4af3-9bc7-a23c9d8e4505&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "GrammarFriday" : "https://teams.microsoft.com/l/team/19%3a8ocWZVwhHSr7FX9ynPJO7fly7MVWApJfSe1P0zDAlLk1%40thread.tacv2/conversations?groupId=8e38838f-2a3a-403a-a669-8201d861deeb&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+                "MathFundamentals" : "https://teams.microsoft.com/l/team/19%3a09NkWlpYd0AmNf1kNXVUU75cCuSV3hBNxXW5_GJMOOk1%40thread.tacv2/conversations?groupId=9c327873-ba83-46b2-ba0c-500359c33059&tenantId=80bd855e-1509-448a-92ec-505024f9ff2d",
+
+                "Club" : "https://tetr.io",
+                "None" : "https://127.0.0.1"
+                
+            }
+        }
+    },
+        
+    "teachername" : {
+        "6": {
+            "1" : {
+                "Animation" : "Monaphat",
+                "Workshop" : "Kittiphat",
+                "PortfolioDesign" : "Teeranan",
+                "Art" : "Teeranan",
+                "Listening" : "Panicha",
+                "PhysicalEducation" : "Attaphorn",
+                "Geography" : "Pramote",
+                "Mathematics" : "Potchanee",
+                "Thai" : "Sasinut",
+                "Grammar" : "Apinya",
+                "Literature" : "Armad",
+                "Economics" : "Athiporn",
+                "Science" : "Patsagon",
+                "Social" : "Chalong",
+                "WebDesign" : "Siriyupin",
+                "Guidance" : "Penphan",
+                "Elective" : "Depends",
+                "Writing" : "Natamon",
+                "WorkEducation" : "Siriluk",
+                "GraphicDesign" : "Nattawan",
+                "Club" : "Depends.",
+                "Dancing" : "Narunart",
+                "Music" : "Supagit",
+                "None" : "None"
+                        
+            },
+            "3" : {
+                "Physics" : "Songkrod",
+                "Biology" : "Pakamon",
+                "EarthScience" : "Boonsong",
+                "Meteorology" : "Boonsong",
+                "Thai" : "Sasinut",
+                "GrammarTuesday" : "Apinya" ,
+                "GrammarWednesday" : "Apinya" ,
+                "GrammarThursday" : "Apinya" ,
+                "GrammarFriday" : "Apinya" ,
+                "AppliedScience" : "Tanongsak",
+                "Mathematics" : "Potchanee",
+                "MathematicsONET" : "Atittaya",
+                "Chemistry" : "Phonchan",
+                "Social" : "Athiporn",
+                "Animation" : "Monaphat",
+                "WorkEducation" : "Siriluk",
+                "Art" : "Teeranan",
+                "EnglishOnline" : "Apinya",
+                "Vocabulary" : "Natamon",
+                "Guidance" : "Penphan",
+                "PhysicalEducation" : "Attaphorn",
+                "Dancing" : "Narunart",
+                "Music" : "Supagit",
+                "MathFundamentals" : "Sirikul",
+                "Club" : "Depends.",
+                "None" : "None"
+            }
+         }
+    },
+    "schedule" : {
+        "6" : {
+            "1" : {
+                "Monday":["Social","Economics","WebDesign","Dancing","Mathematics","Animation","None"],
+                "Tuesday":["Grammar","Writing","ProductDesign","WorkEducation","Guidance","Listening","None"],
+                "Wednesday": ["PortfolioDesign","PortfolioDesign","Mathematics","Geography","Social","Thai","None"],
+                "Thursday": ["Music","PhysicalEducation","Thai","Grammar2","Elective","Elective","None"],
+                "Friday": ["Science","Science","Listening","Geography","Grammar","Club","None"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+            },
+            "3" : {
+                "Monday": ["WorkEducation","Chemistry","Chemistry","Animation","Biology","Biology","None"],
+                "Tuesday": ["Chemistry","Astronomy","Mathematics","MathFundamentals","Vocabulary","Social","None"],
+                "Wednesday": ["Physics","Physics","PhysicalEducation","Social","Dancing","Mathematics","None"],
+                "Thursday": ["Thai","Biology","Music","Mathematics","Guidance","EnglishThursday","EnglishOnline"],
+                "Friday": ["EarthScience","EarthScience","GrammarFriday","MathFundamentals","Thai","Club","None"],
+                "Weekend":["None","None","None","None","None","None","None","None"]
+            }
+        }
+    },
+    
+    
+    "information":{
+        "lastupdate" : "11/1/2021 8:09",
+        "version" : "v15 (2/2564)",
+        "dbclasslist" : [
+            "6/1  (4/4 100%)",
+            "6/3  (4/4 100%)"
+        ],
+        "dbvaluelist" : [
+            "-Avail-",
+            "-Avail-"
+        ]
+    }
+}

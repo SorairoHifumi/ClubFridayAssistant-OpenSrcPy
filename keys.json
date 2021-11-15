@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hotaru-assignments",
+  "private_key_id": "8ab814e36823f42433d6937d3313b3cb3a510690",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/k8RqRzyNLrZD\nvoQYrEDof+chU5DVQACZnq2+7y/5MnRKRtFVmGeq8OAz7NJMAwjmF2Tkc5zh/0z9\nxkybRRpq4+pdFCaVs2jcFslrtTST7MBCFImO1wWfOKhpLpAnAbhlvV7rx6IKuO3W\nR6/xRKyYJWhbhV4mJLd0izPkcCmjqIfgbAKy5Jp/PKYEkMRijVeGLeCpjeABt3uO\nKJYg+0IjxvCwxji669ZH24h1lZFxOnUW6PJ+QMzwxm0Tkw+uGLpqykNgnnluTaT/\nMfH5oOMrVKKGKeVz5GR3JUlqHjHD94qFuoaaOmBm/sKb9crmNa20nQm+xBsQWW0p\nB4xWvSLlAgMBAAECggEAEW61S0RzLpenDzAJXiNifqWQ1xf/EGCUDWaCgeLK9z6P\nlWivSL4nBMeJZ0Av/Km0CBft3tnkVy4/h8IhG2nk1wApRdH9Ftct/gT2zB2/jIxZ\nDEpJIB3RzaS+sl+Bz4LZECz0s7jFNnuQbNS2Hlq0591TiyxuHkNuDCVUkf9g0prt\ncnRSSerL8TTzWX6QMd1KgTGBT3LFSZLkr3+lOvosdBwNRw0xXYL+OSEx7iJR7iLB\njQT1Z0MwHP81voR7Wfojlmfsaon2RdDqKl5RvpxRWQ1+L+ADYom4fJddLJH4+e46\nd5+SXa87DPN0/x3t95X3hypTXQJAHWCa8mvW0lQ62wKBgQDpXPsXYhKO4lNtCPnY\nPhWHPmIy+Z0GZhxDacpUTfD5oxLuF3lVN0lIFRRC57ZAbsQwt/CSjetYBC5QTFeM\nYlKT0t9hFSlMu2c7+EsTkM0c4olunUDlCx42qMgR6zep1iht8JWUR/DUZ840hz4s\nBs2EjzSZPBEExirQFwYefthQ4wKBgQDSKSGDhwjexlHK1RZH99hdJhNNqOWtvgbU\nBIBleHzyRSP+AEkSXHKuTZcgJmJUUSQCZovrxEO2H6SYFCDAxTebLvVjL+c97CLf\n97+8OHHmotH5npfxVuPiSF8Sn6BtiFGjVuA4N+ds3cqgCwTNGvNZaatiWfpHDN8p\nZnQqKRFvlwKBgQCN03quzWXl/NsjCy99Is5Gsb1Qqa+rMee/eM4EypHHxjo9BXsy\nNTWOX3E+8EAtjKQjz8af6yy7A196YctbgG4bdS9Ze1jsT4EAS3ilXX2rLmrEFUJZ\ncZZdNdrSORhNWeCcYHkn80kEbko+VmuMql3BUJ9w+baGJkHi0ftgEUs6bQKBgEBm\nsElw8OvrlBb284v8TEZHK7Upo7B5QfhopLvzjz5ip6PnjHze7ZmyVzRX7tvtvX4q\n1IfcLe+6hKLB0EOia+bXHgVWIaOdIBbIAe540ZaeoH/A9MjVGqI2EURQvEW0d2f5\ncF5p6zY2RSiEF+WOc7IbqpRKBGMPc7dpGQHucdRjAoGBALu6dUFcA0qQROlWHLOa\nTPIJqDIIETmoCS0x1FFWuAhSPnUE5V+z/tGpefU4UoDHm/4RwyJEHaf0v0MG8r5Y\nE8R14p5UTL3XVNXotStg2+/XFrM7R5NNkKhFVZ40ZK9mk26AUD7iD53yb0HuJTQb\nGOdrJW0eOD1+XCwBMxYs8HR4\n-----END PRIVATE KEY-----\n",
+  "client_email": "editor@hotaru-assignments.iam.gserviceaccount.com",
+  "client_id": "111051188041297904230",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/editor%40hotaru-assignments.iam.gserviceaccount.com"
+}
